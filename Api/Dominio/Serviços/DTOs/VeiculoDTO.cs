@@ -1,4 +1,4 @@
-namespace minimalApi.DTOs;
+namespace MinimalApi.DTOs;
 
 public record VeiculoDTO
 {
